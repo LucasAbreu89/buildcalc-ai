@@ -1,0 +1,100 @@
+{
+  "copied_at": "2026-11-05",
+  "source_repository": "https://github.com/LucasAbreu89/orcamento-obras.git",
+  "source_base_commit": "869ae1dd2db98f0526d7f60f373b8e7d06591c3b",
+  "source": "working tree atual; inclui revisões não commitadas em 04_calculo_de_areas.md e 06_quantitativos_e_memorias.md",
+  "count": 18,
+  "files": [
+    {
+      "path": "procedimentos-orcamento/LEIA_PRIMEIRO.md",
+      "sha256": "4d3686faf0424f2c79e72a3a8aef3c8ed178be4e2f26154b2c6e6570841e83ab",
+      "bytes": 6380
+    },
+    {
+      "path": "procedimentos-orcamento/SKILL.md",
+      "sha256": "e4b51404daf81e3a9dcb80ac37f66c2d1321a5c8894b7981a9edebf277c58ad3",
+      "bytes": 5655
+    },
+    {
+      "path": "procedimentos-orcamento/agents/openai.yaml",
+      "sha256": "15b703316227a3c656918c133f5dffbf8a137749c98a94d1ccd72eda334f45bb",
+      "bytes": 363
+    },
+    {
+      "path": "procedimentos-orcamento/assets/ESQUEMA_PLANILHA.md",
+      "sha256": "7f022b27bba446677fb7ee6d037c98c6ae5ffa441779b27f1983c79c1ef4aa83",
+      "bytes": 6260
+    },
+    {
+      "path": "procedimentos-orcamento/assets/MODELO_CATALOGO.md",
+      "sha256": "ee711f7f27dfc3ed03f24dd374e1a2e408b12659d896f7fb3ca92cb92fd7d397",
+      "bytes": 2748
+    },
+    {
+      "path": "procedimentos-orcamento/assets/MODELO_MEMORIA_SERVICO.md",
+      "sha256": "bc91fb4d1fd8bf4303d32304786aeae55a2e5bd011e1546784ef728dd2c86f8c",
+      "bytes": 4460
+    },
+    {
+      "path": "procedimentos-orcamento/references/00_fluxo_mestre.md",
+      "sha256": "4a47b5a4871184c0f3a2b411addbcf1e8d5a7babb5f13a5f57b4df4949960a9d",
+      "bytes": 10815
+    },
+    {
+      "path": "procedimentos-orcamento/references/01_catalogacao_projetos.md",
+      "sha256": "a016d345636cdfca90c8a0db09d3670c84a83a146e837df81a39e3013207ac3e",
+      "bytes": 9807
+    },
+    {
+      "path": "procedimentos-orcamento/references/02_planilha_escopo_e_mapeamento.md",
+      "sha256": "e64237a0e58ea2c2d2e1f8240804bc2872342044719c2d9d566a507a42f95884",
+      "bytes": 11034
+    },
+    {
+      "path": "procedimentos-orcamento/references/03_duvidas_e_continuidade.md",
+      "sha256": "9d3dec16d4fe406a666d0be95a91d733e6fb0dd15968ad87166f57e9513ad30d",
+      "bytes": 5915
+    },
+    {
+      "path": "procedimentos-orcamento/references/04_calculo_de_areas.md",
+      "sha256": "2703faa614df2767558064a3f3b8926ce07631618da105e822c2aca976c8e161",
+      "bytes": 22402
+    },
+    {
+      "path": "procedimentos-orcamento/references/05_perimetros_e_alturas.md",
+      "sha256": "3420cd1937e2e0405e55bb865511e475e4966c152fa11675f416841364797aee",
+      "bytes": 25190
+    },
+    {
+      "path": "procedimentos-orcamento/references/06_quantitativos_e_memorias.md",
+      "sha256": "1f623c101d2d354bfb393ed758c71d39c6c643de84903415365716b395adf4a5",
+      "bytes": 43666
+    },
+    {
+      "path": "procedimentos-orcamento/references/07_computer_use_e_encerramento.md",
+      "sha256": "7ea69476f7ec1cd0997b79abf4f5bfdbe166f2e0bded0d3950ea37e637256e0c",
+      "bytes": 14341
+    },
+    {
+      "path": "procedimentos-orcamento/references/08_conferencia_comparacao_e_entrega.md",
+      "sha256": "96c43fc033aba10bd4c0238bf59d7b16ba10ecfabfebfcc540eaa620d5513238",
+      "bytes": 24649
+    },
+    {
+      "path": "procedimentos-orcamento/references/09_agentes_e_retomada.md",
+      "sha256": "d88420fd83813291cdddd788e62df4aee825ddc9dd9a3049c7d4797ef4275e2d",
+      "bytes": 14987
+    },
+    {
+      "path": "procedimentos-orcamento/references/10_boas_praticas_e_fontes.md",
+      "sha256": "43451feb3c44a132c9bc263baeb7734aae1ce3589dbf39f432bc9dc5a88910aa",
+      "bytes": 13147
+    },
+    {
+      "path": "procedimentos-orcamento/scripts/preparar_projeto.py",
+      "sha256": "29fef5403b6e8ca29b5d7dde7995d7ae0815adb20339af64fae13cbb2efa671e",
+      "bytes": 9032
+    }
+  ],
+  "excludes": "Arquivos de obras, projetos, quantitativos, prints e históricos de clientes não copiados."
+}

@@ -1,6 +1,51 @@
+# Dependências, builds e ambientes
+node_modules/
+.next/
+dist/
+build/
+coverage/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
 
-# Beads / Dolt files (added by bd init)
+# Segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Fontes e artefatos de clientes: somente fixtures sintéticas são versionáveis
+data/
+uploads/
+artifacts/
+outputs/
+executions/
+obras/
+KFC/
+LCA/
+*.dwg
+*.dxf
+*.pdf
+*.xlsx
+*.xls
+*.xlsm
+*.zip
+!tests/fixtures/synthetic/**/*.dwg
+!tests/fixtures/synthetic/**/*.dxf
+!tests/fixtures/synthetic/**/*.pdf
+!tests/fixtures/synthetic/**/*.xlsx
+
+# Beads: o banco e credenciais ficam locais; sincronizar por Dolt
 .dolt/
 *.db
 .beads-credential-key
+.beads/dolt/
 .beads/proxieddb/
+.beads/dolt-server.*
+.beads/*.lock
